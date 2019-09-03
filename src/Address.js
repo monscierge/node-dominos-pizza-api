@@ -29,6 +29,12 @@ var Address = function(parameters) {
       enumerable: true,
       writable: true
     },
+    DeliveryInstructions: {
+      value:
+        "Deliver to front desk, they will have your tip and must sign receipt",
+      enumerable: true,
+      writable: true
+    },
     Street: {
       value: "",
       enumerable: true,
